@@ -1,4 +1,4 @@
-# Municipality-Events-Application
+# Municipality-Events-Application (Revised)
 Municipality Events Application is a desktop application designed to showcase events across Misamis Oriental,
 simplifying event discovery for both residents and visitors. It provides a user-friendly 
 platform to explore cultural festivals, concerts, sports activities, and community gatherings, 
